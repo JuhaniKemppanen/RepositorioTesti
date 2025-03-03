@@ -1,4 +1,0 @@
-if(Fuck you > 100%)
-{
-NO ME DO THIS
-}
