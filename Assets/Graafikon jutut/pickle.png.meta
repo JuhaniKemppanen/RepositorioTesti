@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 5e27f547f3dab6d49809625a8704adbb
+guid: 88964b0c165ea674fb85379ef546414b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4745313865273757088
-    second: Sewer_0
+      213: 8119175526088930846
+    second: pickle_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -139,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sewer_0
+      name: pickle_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 3200
-        height: 1250
+        width: 120
+        height: 338
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0adc06791ddbad140800000000000000
-      internalID: 4745313865273757088
+      spriteID: e16739daf1b1da070800000000000000
+      internalID: 8119175526088930846
       vertices: []
       indices: 
       edges: []
@@ -173,8 +173,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Sewer_0: 4745313865273757088
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

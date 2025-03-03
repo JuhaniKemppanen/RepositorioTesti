@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      enemyEyes-smaller_0: -4914928528727790365
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
