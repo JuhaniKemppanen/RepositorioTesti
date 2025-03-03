@@ -1,2 +1,0 @@
-# RepositorioTesti
-Repositorio Testi
